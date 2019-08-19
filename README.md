@@ -3,26 +3,25 @@
 
 ## Features
 
-- Sound Detect
+- Drow Detect
 - Haptic Feddback
 - App notification
 
  
 ## Demonstration Video
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sZo0_dYGKFw/0.jpg)](http://www.youtube.com/watch?v=sZo0_dYGKFw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R6F7me2vLsI/0.jpg)](https://youtu.be/R6F7me2vLsI)
 
 
 ## How to use?
 
-check out the [Getting Started](https://emily7485.github.io/2019/06/14/pj-sound/) guide.
+check out the [Getting Started](https://emily7485.github.io/2019/08/19/pj-drowsy/) guide.
 
 
 ## Built With
 
-* [Arduino IDE](https://www.arduino.cc/) - The arduino software used
+* [TenosrFlow](https://www.arduino.cc/) - The arduino software used
 * [Android Studio](https://developer.android.com/studio/?gclid=EAIaIQobChMIuoHf5PHn4gIVhqqWCh1m5Av5EAAYASAAEgJjQ_D_BwE) - Used to make application
-* [Bluno Nano](https://www.dfrobot.com/product-1122.html?gclid=EAIaIQobChMIutTP8fHn4gIVF6mWCh1UawjxEAAYASAAEgKCGPD_BwE) - The main board, same as Arduino Nano but able to use **Bluethooth**.
-* [SpeakUp 2 Click](https://www.mikroe.com/speakup-2-click) - Used to detect specific sound
+* [LattePanda](https://www.dfrobot.com/product-1122.html?gclid=EAIaIQobChMIutTP8fHn4gIVF6mWCh1UawjxEAAYASAAEgKCGPD_BwE) - The main board, same as Arduino Nano but able to use **Bluethooth**.
 
 
 ## Contributing
