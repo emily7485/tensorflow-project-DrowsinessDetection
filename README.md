@@ -15,7 +15,7 @@
 
 ## How to use?
 
-check out the [Getting Started](https://emily7485.github.io/2019/08/19/pj-drowsy/) guide.
+Cck out the [Getting Started](https://emily7485.github.io/2019/08/19/pj-drowsy/) guide.
 
 
 ## Built With
