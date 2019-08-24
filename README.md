@@ -4,7 +4,7 @@
 ## Features
 
 - Drowsiness Detection 
-- Haptic Feddback
+- Haptic Feedback
 - App notification
 - Carbon dioxide Measuring
 
