@@ -1,11 +1,12 @@
 # tensorflow-project-DrowsinessDetection
-> A Sound **Detecting** & **Haptic Feedback** Wearable Device for the Hearing-Impaired.
+> A Drowsiness **Detection** & **App notification** system for drivers to prevent a car accident.
 
 ## Features
 
-- Drow Detect
+- Drowsiness Detection 
 - Haptic Feddback
 - App notification
+- Carbon dioxide Measuring
 
  
 ## Demonstration Video
