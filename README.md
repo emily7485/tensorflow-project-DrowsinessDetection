@@ -20,9 +20,9 @@ check out the [Getting Started](https://emily7485.github.io/2019/08/19/pj-drowsy
 
 ## Built With
 
-* [TenosrFlow](https://www.arduino.cc/) - The arduino software used
-* [Android Studio](https://developer.android.com/studio/?gclid=EAIaIQobChMIuoHf5PHn4gIVhqqWCh1m5Av5EAAYASAAEgJjQ_D_BwE) - Used to make application
-* [LattePanda](https://www.dfrobot.com/product-1122.html?gclid=EAIaIQobChMIutTP8fHn4gIVF6mWCh1UawjxEAAYASAAEgKCGPD_BwE) - The main board, same as Arduino Nano but able to use **Bluethooth**.
+* [TenosrFlow](https://www.tensorflow.org/) - An open source machine learning library for research and production.
+* [Android Studio](https://developer.android.com/studio/?gclid=EAIaIQobChMIuoHf5PHn4gIVhqqWCh1m5Av5EAAYASAAEgJjQ_D_BwE) - Used to make application.
+* [LattePanda](https://www.lattepanda.com/) - A Windows 10 Computer with integrated Arduino.
 
 
 ## Contributing
