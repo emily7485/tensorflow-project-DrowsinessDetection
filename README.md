@@ -9,8 +9,8 @@
 - Carbon dioxide Measuring
 
  
-## Demonstration Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R6F7me2vLsI/0.jpg)](https://youtu.be/R6F7me2vLsI)
+## Demonstration Video (Click below thumbnail image)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZXRtuzCOeJA/0.jpg)](https://youtu.be/ZXRtuzCOeJA)
 
 
 ## How to use?
