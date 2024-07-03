@@ -24,6 +24,9 @@ Check out the [Getting Started](https://y0ungchoi.github.io/2019/08/19/pj-drowsy
 * [Android Studio](https://developer.android.com/studio/?gclid=EAIaIQobChMIuoHf5PHn4gIVhqqWCh1m5Av5EAAYASAAEgJjQ_D_BwE) - Used to make application.
 * [LattePanda](https://www.lattepanda.com/) - A Windows 10 Computer with integrated Arduino.
 
+## Award
+I got an Honorable Mention in Hanium Awards 2018🥳 [See a certificate](https://drive.google.com/file/d/1BV2crAAjfSYUvilN3xXdm93rN1RZ2O5x/view)
+
 
 ## Contributing
 
